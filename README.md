@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anhng1106/anhng1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is a ✨ _special_ ✨ place for me to develop my skills and learn new things 
 
 - 🔭 I’m currently an international student in Finland
 - 🌱 I’m currently learning Software Development as a new path
