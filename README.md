@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Anh :)
 
 This is a ✨ _special_ ✨ place for me to develop my skills and learn new things 
 
